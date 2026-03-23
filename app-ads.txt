@@ -16,6 +16,10 @@ bidmachine.io,466,DIRECT
 
 google.com, pub-8257360265075762, DIRECT, f08c47fec0942fa0
 
+#Vungle
+
+vungle.com, 69c19f7e3ab6c22aedb1d104, DIRECT, c107d686becd2d77
+
 #Meta-Audience
 
 #Replace the Business_ID below with your Meta Business ID
